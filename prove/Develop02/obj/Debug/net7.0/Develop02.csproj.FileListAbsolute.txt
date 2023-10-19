@@ -1,0 +1,28 @@
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\bin\Debug\net7.0\Develop02.exe
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\bin\Debug\net7.0\Develop02.deps.json
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\bin\Debug\net7.0\Develop02.runtimeconfig.json
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\bin\Debug\net7.0\Develop02.dll
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\bin\Debug\net7.0\Develop02.pdb
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\obj\Debug\net7.0\Develop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfoInputs.cache
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfo.cs
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\obj\Debug\net7.0\Develop02.csproj.CoreCompileInputs.cache
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\obj\Debug\net7.0\Develop02.dll
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\obj\Debug\net7.0\refint\Develop02.dll
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\obj\Debug\net7.0\Develop02.pdb
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\obj\Debug\net7.0\Develop02.genruntimeconfig.cache
+C:\Users\Ajemm\Downloads\cse210-projects.-main\cse210-projects.-main\prove\Develop02\obj\Debug\net7.0\ref\Develop02.dll
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\bin\Debug\net7.0\Develop02.exe
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\bin\Debug\net7.0\Develop02.deps.json
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\bin\Debug\net7.0\Develop02.runtimeconfig.json
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\bin\Debug\net7.0\Develop02.dll
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\bin\Debug\net7.0\Develop02.pdb
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\obj\Debug\net7.0\Develop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfoInputs.cache
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfo.cs
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\obj\Debug\net7.0\Develop02.csproj.CoreCompileInputs.cache
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\obj\Debug\net7.0\Develop02.dll
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\obj\Debug\net7.0\refint\Develop02.dll
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\obj\Debug\net7.0\Develop02.pdb
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\obj\Debug\net7.0\Develop02.genruntimeconfig.cache
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop02\obj\Debug\net7.0\ref\Develop02.dll
