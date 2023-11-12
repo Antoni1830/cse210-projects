@@ -1,0 +1,14 @@
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.exe
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.deps.json
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.runtimeconfig.json
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.dll
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.pdb
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.AssemblyInfoInputs.cache
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.AssemblyInfo.cs
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.csproj.CoreCompileInputs.cache
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.dll
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\obj\Debug\net7.0\refint\Develop04.dll
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.pdb
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.genruntimeconfig.cache
+C:\Users\Ajemm\OneDrive\Documents\BYU IDAHO\cse210-projects\prove\Develop04\obj\Debug\net7.0\ref\Develop04.dll
